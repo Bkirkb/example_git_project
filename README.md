@@ -4,3 +4,4 @@
 
 i
 - Setup a remore repo
+Brendan added to the repo
